@@ -1,5 +1,9 @@
 # ¡Hola! Soy Oscar Benites 👋 🇵🇪
 
+<p align="center">
+  <img src="namebaner.png" alt="Banner Oscar Benites" width="100%">
+</p>
+
 ### Operations Supervisor & Aspiring Software Developer
 
 Soy un apasionado de la tecnología y la eficiencia operativa. Actualmente, me desempeño como Supervisor de Operaciones en la industria de Call Centers, mientras transiciono al mundo del desarrollo de software especializado en el ecosistema de **Kotlin**.
