@@ -37,8 +37,4 @@ Mi enfoque actual es dominar el desarrollo multiplataforma para crear soluciones
 
 ---
 
-## 📫 Conecta conmigo:
-* **LinkedIn:** [https://pe.linkedin.com/in/oscar-benites-8244841a3]
-* **Ubicación:** Lima, Perú 🇵🇪
-
 *"La consistencia le gana al talento el 100% de las veces."*
