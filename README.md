@@ -11,12 +11,12 @@ Soy un apasionado de la tecnología y la eficiencia operativa. Actualmente, me d
 ---
 
 ## 🚀 En qué estoy trabajando ahora
-Mi enfoque actual es dominar el desarrollo multiplataforma para crear soluciones que funcionen tanto en Android como en la Web.
 
-* **Proyecto Destacado (In-Dev):** **"Nuestro Mapa de Sabores"** (Nombre temporal para tu proyecto de pareja). 
-    * Una app personal para registrar reseñas, fotos y opiniones de los restaurantes que visitamos.
-    * **Tech Stack:** Kotlin, Jetpack Compose, y persistencia de datos local.
-* **Aprendizaje:** Actualmente cursando *Jetpack Compose: Curso definitivo desde 0* para fortalecer bases de arquitectura MVVM y Clean Architecture.
+* 🛠️ **Current Project:** Nuestro Mapa de Sabores *(In-Dev)*
+    * *App personal (pareja) para registrar reseñas, fotos y opiniones de restaurantes.*
+    * **Stack:** Kotlin, Jetpack Compose, Local Data Persistence.
+* 📚 **Learning:** Jetpack Compose & Clean Architecture.
+    * *Enfoque en arquitectura MVVM para un desarrollo escalable.*
 
 ---
 
@@ -28,12 +28,13 @@ Mi enfoque actual es dominar el desarrollo multiplataforma para crear soluciones
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Gestión y Operaciones
-* **Metodologías:** Liderazgo de equipos, Análisis de métricas (NPS, PECUF), Mejora continua de procesos.
-* **Soft Skills:** Comunicación asertiva, resolución de conflictos y pensamiento analítico.
+**Operations Expert:** Team Leadership | NPS & Metrics Analysis (NPS, PECUF) | Process Improvement
+**Soft Skills:** Communication | Conflict Resolution | Analytical Thinking
 
 ---
 
 ## 📈 Mi Camino de Aprendizaje (2026)
+
 - [x] Fundamentos de Programación.
 - [ ] Dominio de Jetpack Compose (En proceso 🏗️).
 - [ ] Implementación de APIs con Ktor.
