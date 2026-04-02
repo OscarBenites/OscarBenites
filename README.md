@@ -1,7 +1,7 @@
 # ¡Hola! Soy Oscar Benites 👋 🇵🇪
 
 <p align="center">
-  <img src="namebaner.png" alt="Banner Oscar Benites" width="100%">
+  <img src="namebaner.pjpeg" alt="Banner Oscar Benites" width="100%">
 </p>
 
 ### Operations Supervisor & Aspiring Software Developer
